@@ -1,4 +1,4 @@
-export { Gallery } from "./Gallery";
+import { Gallery } from "./Gallery";
 
 function App() {
   return (
