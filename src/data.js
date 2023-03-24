@@ -1,8 +1,8 @@
 export const imageList = [
   {
     imageURL:
-      "https://cdn.pixabay.com/photo/2023/03/03/08/22/skulls-7827155_960_720.jpg",
-    desc: "Mãos tocando uma borboleta",
+      "https://cdn.pixabay.com/photo/2023/02/08/07/05/mountain-7775867_960_720.jpg",
+    desc: "Montanhas",
   },
   {
     imageURL:
