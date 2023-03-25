@@ -23,6 +23,7 @@ p {
 button {
     font-size: 20px;
     font-family: 'Roboto';
+    border-radius: 10px;
     font-weight: bold;
     margin: 10px;
     background-color: rgb(208, 230, 252);
@@ -32,3 +33,8 @@ button:hover {
     background-color: rgb(174, 207, 240);
 }
 
+@media only screen and (max-width: 605px){
+    img {
+        width: 300px;
+    }
+}
